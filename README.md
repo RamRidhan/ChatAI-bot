@@ -10,6 +10,7 @@ It is inspired from article : https://chatbotsmagazine.com/contextual-chat-bots-
 pip install nltk
 nltk.download('punkt') --> "In case the above code generates error"
 ```
+<b><u>NOTE:</u> Make sure to install pytorch in your IDE or other environment and execute program source codes using pytorch</b>
 # Usage
 ```
 python train.py
@@ -19,3 +20,8 @@ This will dump processor.pth file. And then run
 ```
 python chat.py
 ```
+# Applications
+•	Customer Support.
+•	Virtual Assistants (advanced features - voice recognition, text analysis, voice navigation).
+•	Task Automation.
+•	Entertainment.
